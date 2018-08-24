@@ -1,0 +1,8 @@
+@import url(reset.css);
+
+body {background: lightgrey;}
+
+div {
+	padding: 10px;
+	font-size: 18px;
+}

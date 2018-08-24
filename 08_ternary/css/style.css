@@ -1,0 +1,10 @@
+@import url(reset.css);
+
+body {background: ;}
+
+.imageBlock {
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	display: block;
+}

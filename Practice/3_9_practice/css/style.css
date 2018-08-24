@@ -1,0 +1,17 @@
+@import url(reset.css);
+
+@keyframes animated{
+	from {
+		border: none;
+	}
+	to {
+		border: 1px solid red;
+
+	}
+}
+
+body {background: lightgrey;}
+
+.animated {
+	animation: fall 1s linear infinite alternate;
+}

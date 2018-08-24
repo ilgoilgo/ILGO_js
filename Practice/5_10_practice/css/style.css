@@ -1,0 +1,21 @@
+@import url(reset.css);
+
+body {background: lightgrey;}
+
+p {
+	padding: 10px 0;
+}
+
+h1 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+div {
+	padding: 20px;
+	max-width: 600px;
+}
+
+.line {
+
+}
